@@ -1,6 +1,6 @@
-[img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/AdoptiveRelationships/banner.png[/img]
+[img]https://raw.githubusercontent.com/lydocia/rwAdoptiveRelationships/refs/heads/main/banner.png[/img]
 
-[img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/description.png[/img]
+[img]https://raw.githubusercontent.com/lydocia/rwSharedAssets/refs/heads/main/description.png[/img]
 
 I absolutely love having random children join my colony, I love taking them in and roleplay that one or two pawns adopt the child as it moves into their home and lives with them and their family. Or maybe the entire colony just adopts the child as a tribe. But I hate that that relationship never becomes official. They're just orphans living in your colony. And I hate it even more that sometimes, that means they'll grow up and romance their adoptive parents or siblings. Eww.
 
@@ -14,7 +14,7 @@ A big thank you very not to the RimWorld community for introducing me to the phe
 
 
 
-[img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/faq.png[/img]
+[img]https://raw.githubusercontent.com/lydocia/rwSharedAssets/refs/heads/main/faq.png[/img]
 
 💀 [b]Will you add rituals / interactions / autonomous events to adopt outside of Character Editor/Prepare Carefully?[/b]
 
@@ -26,7 +26,7 @@ No. I don't have the bandwidth for more complicated code mods at this time. Mayb
 No, you sick weirdos, stop asking.
 
 
-[img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/changelog.png[/img]
+[img]https://raw.githubusercontent.com/lydocia/rwSharedAssets/refs/heads/main/changelog.png[/img]
 
 [21/07/25] 
 Added relationships:
@@ -53,6 +53,6 @@ Added relationships:
 - Adoptive sister
 
 
-[url=https://steamcommunity.com/id/lydocia/myworkshopfiles/?appid=294100][img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/othermods.png[/img][/url]
-[url=https://discord.gg/ZPcuC3B][img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/modbucket.png[/img][/url]
-[url=https://ko-fi.com/lydocia][img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/kofi.png[/img][/url]
+[url=https://steamcommunity.com/id/lydocia/myworkshopfiles/?appid=294100][img]https://raw.githubusercontent.com/lydocia/rwSharedAssets/refs/heads/main/othermods.png[/img][/url]
+[url=https://discord.gg/ZPcuC3B][img]https://raw.githubusercontent.com/lydocia/rwSharedAssets/refs/heads/main/modbucket.png[/img][/url]
+[url=https://ko-fi.com/lydocia][img]https://raw.githubusercontent.com/lydocia/rwSharedAssets/refs/heads/main/kofi.png[/img][/url]
