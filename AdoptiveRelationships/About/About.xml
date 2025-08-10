@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+
+	<name>Adoptive Relationships</name>
+    <author>lydocia</author>
+    <packageId>lydocia.AdoptiveRelationships</packageId>
+    <supportedVersions>
+	    <li>1.4</li>
+        <li>1.5</li>
+        <li>1.6</li>
+    </supportedVersions>
+	<description>
+        Adoptive relationships to mirror the biologically related relationships buffs without overriding them. 
+		Adoptive relationships prohibit romantic relationships from naturally forming.
+		Use Character Editor, Prepare Carefully or similar to add adoptive relationships between pawns.
+		Included:
+        - Adoptive mother
+        - Adoptive father
+		- Adoptive daughter
+		- Adoptive son
+        - Adoptive sister
+        - Adoptive brother
+        - Adoptive grandmother
+        - Adoptive grandfather
+		- Adoptive granddaughter
+		- Adoptive grandson
+		- Adoptive cousin
+	</description>
+</ModMetaData>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <PawnRelationDef>
+    <defName>AdoptiveParent</defName>
+    <label>adoptive father</label>
+    <labelFemale>adoptive mother</labelFemale>
+    <diedThought>AdoptiveParentDied</diedThought>
+    <killedThought>AdoptiveParentKilled</killedThought>
+    <importance>150</importance>
+    <opinionOffset>30</opinionOffset>
+    <implied>false</implied>
+    <reflexive>false</reflexive>
+	<generationChanceFactor>0</generationChanceFactor>
+	<romanceChanceFactor>0</romanceChanceFactor>
+  </PawnRelationDef>
+
+  <PawnRelationDef>
+    <defName>AdoptiveChild</defName>
+    <label>adoptive son</label>
+    <labelFemale>adoptive daughter</labelFemale>
+    <diedThought>AdoptiveChildDied</diedThought>
+    <killedThought>AdoptiveChildKilled</killedThought>
+    <importance>150</importance>
+    <opinionOffset>30</opinionOffset>
+    <implied>false</implied>
+    <reflexive>false</reflexive>
+	<generationChanceFactor>0</generationChanceFactor>
+	<romanceChanceFactor>0</romanceChanceFactor>
+  </PawnRelationDef>
+
+  <PawnRelationDef>
+    <defName>AdoptiveSibling</defName>
+    <label>adoptive brother</label>
+    <labelFemale>adoptive sister</labelFemale>
+    <diedThought>AdoptiveSiblingDied</diedThought>
+    <killedThought>AdoptiveSiblingKilled</killedThought>
+    <importance>100</importance>
+    <opinionOffset>20</opinionOffset>
+    <implied>false</implied>
+    <reflexive>true</reflexive>
+	<generationChanceFactor>0</generationChanceFactor>
+	<romanceChanceFactor>0</romanceChanceFactor>
+  </PawnRelationDef>
+
+  <PawnRelationDef>
+    <defName>AdoptiveGrandparent</defName>
+    <label>adoptive grandfather</label>
+    <labelFemale>adoptive grandmother</labelFemale>
+    <diedThought>AdoptiveGrandparentDied</diedThought>
+    <killedThought>AdoptiveGrandparentKilled</killedThought>
+    <importance>100</importance>
+    <opinionOffset>15</opinionOffset>
+    <implied>false</implied>
+    <reflexive>false</reflexive>
+	<generationChanceFactor>0</generationChanceFactor>
+	<romanceChanceFactor>0</romanceChanceFactor>
+  </PawnRelationDef>
+
+  <PawnRelationDef>
+    <defName>AdoptiveGrandchild</defName>
+    <label>adoptive grandson</label>
+    <labelFemale>adoptive granddaugther</labelFemale>
+    <diedThought>AdoptiveGrandchildDied</diedThought>
+    <killedThought>AdoptiveGrandchildKilled</killedThought>
+    <importance>100</importance>
+    <opinionOffset>15</opinionOffset>
+    <implied>false</implied>
+    <reflexive>false</reflexive>
+	<generationChanceFactor>0</generationChanceFactor>
+	<romanceChanceFactor>0</romanceChanceFactor>
+  </PawnRelationDef>
+
+  <PawnRelationDef>
+    <defName>AdoptiveCousin</defName>
+    <label>adoptive cousin</label>
+    <labelFemale>adoptive cousin</labelFemale>
+    <diedThought>AdoptiveCousinDied</diedThought>
+    <killedThought>AdoptiveCousinKilled</killedThought>
+    <importance>100</importance>
+    <opinionOffset>15</opinionOffset>
+    <implied>false</implied>
+    <reflexive>true</reflexive>
+	<generationChanceFactor>0</generationChanceFactor>
+	<romanceChanceFactor>0</romanceChanceFactor>
+  </PawnRelationDef>
+
+</Defs>

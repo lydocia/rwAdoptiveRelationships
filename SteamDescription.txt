@@ -1,0 +1,58 @@
+[img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/AdoptiveRelationships/banner.png[/img]
+
+[img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/description.png[/img]
+
+I absolutely love having random children join my colony, I love taking them in and roleplay that one or two pawns adopt the child as it moves into their home and lives with them and their family. Or maybe the entire colony just adopts the child as a tribe. But I hate that that relationship never becomes official. They're just orphans living in your colony. And I hate it even more that sometimes, that means they'll grow up and romance their adoptive parents or siblings. Eww.
+
+I couldn't find any mods that added an adoption mechanic or anything like it, so I decided to do the next best thing and added adoptive relationships.
+
+If you're looking to exclude pawns from romancing each other but don't want them to adopt each other, check out my other mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3395394391]Platonic Relationships[/url].
+
+These relationships do not happen naturally, you will have to add them manually at the beginning of the game using [url=https://steamcommunity.com/sharedfiles/filedetails/?id=735106432]Prepare Carefully[/url] and/or mid-game using [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1874644848]Character Editor[/url]. Other mods that alter the relationships between pawns should work, too, as this only adds the relationships, nothing else.
+
+A big thank you very not to the RimWorld community for introducing me to the phenomenon 'Sweet Baby Boy'. I will never forgive you.
+
+
+
+[img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/faq.png[/img]
+
+💀 [b]Will you add rituals / interactions / autonomous events to adopt outside of Character Editor/Prepare Carefully?[/b]
+
+No. I don't have the bandwidth for more complicated code mods at this time. Maybe later.
+
+
+💀 [b]Will you make an alternative mod where adoptive family members can have sexual relationships?[/b]
+
+No, you sick weirdos, stop asking.
+
+
+[img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/changelog.png[/img]
+
+[21/07/25] 
+Added relationships:
+- Adoptive cousin
+Updated to 1.6
+
+[29/12/2024]
+Changed some numbers to reflect the same relationship offsets as biological relationships.
+
+[13/11/24] 
+Added relationships:
+- Adoptive grandfather
+- Adoptive grandmother
+- Adoptive granddaughter
+- Adoptive grandson
+
+[11/11/24] 
+Added relationships:
+- Adoptive mother
+- Adoptive father
+- Adoptive son
+- Adoptive daughter
+- Adoptive brother
+- Adoptive sister
+
+
+[url=https://steamcommunity.com/id/lydocia/myworkshopfiles/?appid=294100][img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/othermods.png[/img][/url]
+[url=https://discord.gg/ZPcuC3B][img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/modbucket.png[/img][/url]
+[url=https://ko-fi.com/lydocia][img]https://raw.githubusercontent.com/lydocia/ModsRimworld/refs/heads/main/kofi.png[/img][/url]

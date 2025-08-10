@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <ThoughtDef ParentName="DeathMemoryFamily">
+    <defName>AdoptiveParentDied</defName>
+    <stages>
+      <li>
+        <label>my adoptive parent {0} died</label>
+        <description>My adoptive parent died.</description>
+        <baseMoodEffect>-10</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+   <ThoughtDef>
+    <defName>AdoptiveParentKilled</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my adoptive parent</label>
+        <baseOpinionOffset>-35</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef> 
+  
+  <ThoughtDef ParentName="DeathMemoryFamily">
+    <defName>AdoptiveChildDied</defName>
+    <stages>
+      <li>
+        <label>my adoptive child {0} died</label>
+        <description>My adoptive child died.</description>
+        <baseMoodEffect>-10</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+   <ThoughtDef>
+    <defName>AdoptiveChildKilled</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my adoptive parent</label>
+        <baseOpinionOffset>-35</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef> 
+  
+  <ThoughtDef ParentName="DeathMemoryFamily">
+    <defName>AdoptiveSiblingDied</defName>
+    <stages>
+      <li>
+        <label>my adoptive sibling {0} died</label>
+        <description>My adoptive sibling died.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+   <ThoughtDef>
+    <defName>AdoptiveSiblingKilled</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my adoptive parent</label>
+        <baseOpinionOffset>-20</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef> 
+
+  <ThoughtDef ParentName="DeathMemoryFamily">
+    <defName>AdoptiveGrandparentDied</defName>
+    <stages>
+      <li>
+        <label>my adoptive grandparent {0} died</label>
+        <description>My adoptive grandparent died.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+   <ThoughtDef>
+    <defName>AdoptiveGrandparentKilled</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my adoptive grandparent</label>
+        <baseOpinionOffset>-20</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+  <ThoughtDef ParentName="DeathMemoryFamily">
+    <defName>AdoptiveGrandchildDied</defName>
+    <stages>
+      <li>
+        <label>my adoptive grandchild {0} died</label>
+        <description>My adoptive grandchild died.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+   <ThoughtDef>
+    <defName>AdoptiveGrandchildKilled</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my adoptive grandchild</label>
+        <baseOpinionOffset>-20</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef> 
+
+  <ThoughtDef ParentName="DeathMemoryFamily">
+    <defName>AdoptiveCousinDied</defName>
+    <stages>
+      <li>
+        <label>my adoptive cousin {0} died</label>
+        <description>My adoptive cousin died.</description>
+        <baseMoodEffect>-5</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+   <ThoughtDef>
+    <defName>AdoptiveCousinKilled</defName>
+    <thoughtClass>Thought_MemorySocial</thoughtClass>
+    <durationDays>60</durationDays>
+    <stackLimit>300</stackLimit>
+    <stackLimitForSameOtherPawn>10</stackLimitForSameOtherPawn>
+    <stages>
+      <li>
+        <label>killed my adoptive cousin</label>
+        <baseOpinionOffset>-20</baseOpinionOffset>
+      </li>
+    </stages>
+  </ThoughtDef> 
+
+</Defs>
